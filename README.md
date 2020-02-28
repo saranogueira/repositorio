@@ -1,4 +1,4 @@
-# resumaster
+# StudyMaster
 Tudo o que você precisa para seus estudos!
 
 Com foco no Enem e vestibulares!  
