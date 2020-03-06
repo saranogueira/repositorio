@@ -17,3 +17,35 @@ com este seletor, podemos escolher um ou mais elementos que estão dentro de out
 seleciona elementos com uma classe específica aplicada.
 ## Seletor de id: 
 seleciona o elemento com a id especificada.
+## Referências CSS
+### CSS Interno
+Código CSS interno é colocado na seção <head> de uma determinada página. As classes e IDs podem ser usados para se referir ao código CSS, mas eles só estão ativos nessa página específica.O CSS interno é colocado entre tags <style></style>. 
+  ### EXEMPLO:
+  <head>
+<style type="text/css">
+p {color:white; font-size: 10px;}
+.center {display: block; margin: 0 auto;}
+#button-go, #button-back {border: solid 1px black;}
+</style>
+</head>
+  
+### CSS externo
+Provavelmente a maneira mais conveniente de adicionar CSS ao seu site, é vinculá-lo a um arquivo .css externo. Dessa forma, quaisquer alterações feitas em um arquivo CSS externo serão refletidas em seu site globalmente. Uma referência a um arquivo CSS externo é colocada na seção <head> da página:
+  ### EXEMPLO:
+  <head>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+### CSS inline
+  O CSS inline é usado para uma tag HTML específica. O atributo <style> é usado para formatar uma tag HTML específica.
+  ### EXEMPLO:
+  <!DOCTYPE html>
+<html>
+<body style="background-color:black;">
+
+<h1 style="color:white;padding:30px;">Hostinger Tutorials</h1>
+<p style="color:white;">Something usefull here.</p>
+
+</body>
+</html>
+  
+  
