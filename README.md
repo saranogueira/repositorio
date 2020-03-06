@@ -20,7 +20,7 @@ seleciona o elemento com a id especificada.
 ## Referências CSS
 ### CSS Interno
 Código CSS interno é colocado na seção <head> de uma determinada página. As classes e IDs podem ser usados para se referir ao código CSS, mas eles só estão ativos nessa página específica.O CSS interno é colocado entre tags <style></style>. 
-  ### EXEMPLO:
+exemplo:
   <head>
 <style type="text/css">
 p {color:white; font-size: 10px;}
@@ -31,13 +31,13 @@ p {color:white; font-size: 10px;}
   
 ### CSS externo
 Provavelmente a maneira mais conveniente de adicionar CSS ao seu site, é vinculá-lo a um arquivo .css externo. Dessa forma, quaisquer alterações feitas em um arquivo CSS externo serão refletidas em seu site globalmente. Uma referência a um arquivo CSS externo é colocada na seção <head> da página:
-  ### EXEMPLO:
+ exemplo:
   <head>
 <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 ### CSS inline
   O CSS inline é usado para uma tag HTML específica. O atributo <style> é usado para formatar uma tag HTML específica.
-  ### EXEMPLO:
+exemplo:
   <!DOCTYPE html>
 <html>
 <body style="background-color:black;">
