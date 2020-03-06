@@ -45,6 +45,16 @@ exemplo:
 <h1 style="color:white;padding:30px;">Hostinger Tutorials</h1>
 <p style="color:white;">Something usefull here.</p>
 
+## FRAMEWORKS
+### bootstrap
+ foi desenvolvido por Jacob Thorton e Mark Otto, engenheiros do Twitter, como uma tentativa de resolver incompatibilidades dentro da própria equipe. O intuito era otimizar o desenvolvimento de sua plataforma através da adoção de uma estrutura única. Isto reduziria inconsistências entre as diversas formas de se codificar, que variam de profissional para profissional. E a tentativa deu tão certo que eles perceberam o grande potencial da ferramenta, lançando-a no GitHub como um software livre.
+ Na prática, a principal aplicação do Bootstrap seria na criação de sites responsivos (mobile). Com o Bootstrap, o profissional já não tem mais que perder tanto tempo digitando toda uma linha de CSS novamente.
+ ### purecss
+ O Pure baseia-se no Normalize.css e fornece layout e estilo para elementos HTML nativos, além dos componentes de interface do usuário mais comuns.
+ ### foundation
+ para o desenvolvimento responsivo de forma rápida priorizando o valor semântico dos elementos, mantendo uma estrutura HTML limpa e de carregamento rápido.
+
+
 </body>
 </html>
   
