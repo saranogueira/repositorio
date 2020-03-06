@@ -8,7 +8,7 @@ A relação entre HTML e CSS é bem forte. Como o HTML é uma linguagem de marca
 
 Com o Cascading Style Sheets é possível criar animações complexas, criar efeitos com uso de parallax, que faz parecer que a imagem de fundo tem uma profundidade diferente um dos outros, criar sites interativos e também jogos com HTML5 e CSS3.
 
-# Seletores:  um dos mais poderosos aspectos CSS, permite que selecionemos qualquer elemento na página para estilizar.
+## Seletores:  um dos mais poderosos aspectos CSS, permite que selecionemos qualquer elemento na página para estilizar.
 ## Seletor de tipo: 
 este é o tipo de seletor que utilizamos nos exemplos até agora. Com este seletor, selecionamos todas as tags de um mesmo tipo. Por exemplo, se digitamos a estaremos selecionando todas as tags a (links) da página e poderemos aplicar estilos a elas. Útil para estilos gerais, mas para maior especificidade utilizamos outros seletores.
 ## Seletor descendente: 
